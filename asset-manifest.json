@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/insta-app/static/css/main.c9b0b82e.chunk.css",
+    "main.js": "/insta-app/static/js/main.93e4317f.chunk.js",
+    "main.js.map": "/insta-app/static/js/main.93e4317f.chunk.js.map",
+    "runtime-main.js": "/insta-app/static/js/runtime-main.9d0e7ece.js",
+    "runtime-main.js.map": "/insta-app/static/js/runtime-main.9d0e7ece.js.map",
+    "static/js/2.e40a9c2f.chunk.js": "/insta-app/static/js/2.e40a9c2f.chunk.js",
+    "static/js/2.e40a9c2f.chunk.js.map": "/insta-app/static/js/2.e40a9c2f.chunk.js.map",
+    "index.html": "/insta-app/index.html",
+    "precache-manifest.5b4560dfc92cad5d408ad1c524579c47.js": "/insta-app/precache-manifest.5b4560dfc92cad5d408ad1c524579c47.js",
+    "service-worker.js": "/insta-app/service-worker.js",
+    "static/css/main.c9b0b82e.chunk.css.map": "/insta-app/static/css/main.c9b0b82e.chunk.css.map",
+    "static/js/2.e40a9c2f.chunk.js.LICENSE.txt": "/insta-app/static/js/2.e40a9c2f.chunk.js.LICENSE.txt",
+    "static/media/explore.902c4365.svg": "/insta-app/static/media/explore.902c4365.svg",
+    "static/media/home.0ed5fbdb.svg": "/insta-app/static/media/home.0ed5fbdb.svg",
+    "static/media/instagram.3388b1a1.svg": "/insta-app/static/media/instagram.3388b1a1.svg",
+    "static/media/user.16069ca8.svg": "/insta-app/static/media/user.16069ca8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d0e7ece.js",
+    "static/js/2.e40a9c2f.chunk.js",
+    "static/css/main.c9b0b82e.chunk.css",
+    "static/js/main.93e4317f.chunk.js"
+  ]
+}
